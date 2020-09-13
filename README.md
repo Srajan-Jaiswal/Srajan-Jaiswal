@@ -6,6 +6,4 @@
 - 🤔 I’m looking for help with Integrating cryptography into Mobile Devlopment.
 - 💬 Ask me about technical stuffs.
 - 📫 How to reach me: LinkedIn
-- 😄 Fun facts:  -The root is at the top of the tree.
-                 -The Ctrl-Z is better than a time machine.
-                 -Ctrl + C and Ctrl + V have saved more lives than Batman and Robin.
+- 😄 Fun facts: The root is at the top of the tree ||  The Ctrl-Z is better than a time machine || Ctrl + C and Ctrl + V have saved more lives than Batman and Robin.
