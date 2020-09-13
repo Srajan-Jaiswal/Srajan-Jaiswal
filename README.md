@@ -1,10 +1,5 @@
 ### Hi there 👋 I am Srajan Jaiswal!
 
-<!--
-**Srajan-Jaiswal/Srajan-Jaiswal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on my Portfolio using Cross-Platform Mobile Development.
 - 🌱 I’m currently learning Dart,Flutter,Python,Algorithms.
 - 👯 I’m looking to collaborate for a project ideas on Secure Devlopment.
@@ -14,4 +9,3 @@ Here are some ideas to get you started:
 - 😄 Fun facts:  -The root is at the top of the tree.
                  -The Ctrl-Z is better than a time machine.
                  -Ctrl + C and Ctrl + V have saved more lives than Batman and Robin.
--->
