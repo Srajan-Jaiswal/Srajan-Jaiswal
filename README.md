@@ -1,7 +1,4 @@
 ### Hi there<img src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" width=40 height=40 />  I am Srajan Jaiswal !
- <a href="https://github.com/Srajan-Jaiswal/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Srajan-Jaiswal">
-</a>
 
 - 🔭 I’m currently working on my Portfolio using Cross-Platform Mobile Development.
 - 🌱 I’m currently learning Dart,Flutter,Python,Algorithms.
@@ -10,3 +7,7 @@
 - 💬 Ask me about Technical stuffs.
 - 📫 How to reach me: [LinkedIn- SrajanJaiswal](https://www.linkedin.com/in/srajan-jaiswal-28a66b190/) , [Twitter- @_Srajan_Jaiswal](https://twitter.com/_Srajan_Jaiswal) 
 - 😄 Fun facts: The root is at the top of the tree. ||  The Ctrl-Z is better than a time machine. || Ctrl + C and Ctrl + V have saved more lives than Batman and Robin.
+
+ <a href="https://github.com/Srajan-Jaiswal/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Srajan-Jaiswal">
+</a>
