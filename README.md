@@ -1,4 +1,5 @@
 ### Hi there 👋 I am Srajan Jaiswal !
+### Hi there<img src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" width=40 height=40 />  I am Srajan Jaiswal !
 
 - 🔭 I’m currently working on my Portfolio using Cross-Platform Mobile Development.
 - 🌱 I’m currently learning Dart,Flutter,Python,Algorithms.
