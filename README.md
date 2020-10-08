@@ -9,5 +9,5 @@
 - 😄 Fun facts: The root is at the top of the tree. ||  The Ctrl-Z is better than a time machine. || Ctrl + C and Ctrl + V have saved more lives than Batman and Robin.
 
  <a href="https://github.com/Srajan-Jaiswal/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Srajan-Jaiswal">
+            <img src="https://komarev.com/ghpvc/?username=Srajan-Jaiswal">
 </a>
