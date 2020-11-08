@@ -1,7 +1,7 @@
 ### Hi there<img src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" width=40 height=40 />  I am Srajan Jaiswal !
 
 - 🔭 I’m currently working on an android app Encryptor Decryptor.
-- 🌱 I’m an active Competitive Programmer.
+- 🌱 I’m an active Competitive Programmer and upgrading my skills on Data Structures and Algorithms.
 - 👯 I’m looking to collaborate for project ideas on Secure Development.
 - 🤔 I’m looking for help with Integrating Cryptographic Algorithms into Mobile Development.
 - 💬 Ask me about Technical stuffs.
