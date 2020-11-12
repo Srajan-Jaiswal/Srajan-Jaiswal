@@ -8,7 +8,7 @@
 - 📫 How to reach me: [LinkedIn- SrajanJaiswal](https://www.linkedin.com/in/srajan-jaiswal-28a66b190/) , [Twitter- @_Srajan_Jaiswal](https://twitter.com/_Srajan_Jaiswal) 
 - 😄 Fun facts: The root is at the top of the tree. ||  The Ctrl-Z is better than a time machine. || Ctrl + C and Ctrl + V have saved more lives than Batman and Robin.
 
- [![Linkedin: srajan-jaiswal](https://img.shields.io/Linkedin/follow/srajan-jaiswal?style=social)](https://www.linkedin.com/in/srajan-jaiswal-28a66b190/)
+ [![Linkedin srajan-jaiswal](https://img.shields.io/Linkedin/followers/srajan-jaiswal?label=follow&style=social)](https://www.linkedin.com/in/srajan-jaiswal-28a66b190/)
  
  <a href="https://github.com/Srajan-Jaiswal">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srajan-Jaiswal&theme=light&hide_langs_below=1" />
