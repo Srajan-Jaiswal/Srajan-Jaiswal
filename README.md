@@ -9,3 +9,11 @@
 - 😄 Fun facts: The root is at the top of the tree. ||  The Ctrl-Z is better than a time machine. || Ctrl + C and Ctrl + V have saved more lives than Batman and Robin.
 
  
+ <a href="https://github.com/Srajan-Jaiswal">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srajan-Jaiswal&theme=light&hide_langs_below=1" />
+</a>
+<a href="https://github.com/Srajan-Jaiswal">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Srajan-Jaiswal&show_icons=true&theme=light&line_height=27" alt="My github stats"/>
+</a>
+
+
