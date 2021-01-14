@@ -1,5 +1,7 @@
 ### Hi there<img src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" width=40 height=40 />  I am Srajan Jaiswal !
 
+<img align="right" alt="GIF" src="https://github.com/Harshit564/Harshit564/blob/master/images/dev.gif" width="480"/>
+
 - 🔭 I’m currently working on an android app CityTransfers Cabs.
 - 🌱 I’m an active Competitive Programmer and upgrading my skills on Data Structures and Algorithms.
 - 👯 I’m looking to collaborate for project ideas on Secure Development.
