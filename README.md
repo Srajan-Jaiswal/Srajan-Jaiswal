@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on an android app CityTransfers Cabs.
 - 🌱 I’m an active Competitive Programmer and upgrading my skills on Data Structures and Algorithms.
-- 👯
+- 👯 I’m looking to collaborate for project ideas on Secure Development.
 - 🤔 I’m looking for help with Integrating Cryptographic Algorithms into Mobile Development.
 - 💬 Ask me about Technical stuffs.
 - 📫 How to reach me: [LinkedIn- SrajanJaiswal](https://www.linkedin.com/in/srajan-jaiswal-28a66b190/)  
